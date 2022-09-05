@@ -19,10 +19,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Sidney Bakker (vervangen door jouw naam)
 
   #### Je startniveau:
-  Blauw (kies uit zwart, rood óf blauw)
+  Rood/zwart (kies uit zwart, rood óf blauw)
 
   #### Je focus:
-  Responsive (kies uit responsive óf surface plane)
+  Surface plane (kies uit responsive óf surface plane)
  
 </details>
 
@@ -37,14 +37,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je opdracht:
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
-
+  https://www.twitch.tv/
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/twitch1.jpeg" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/twitch2.jpeg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
