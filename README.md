@@ -61,23 +61,35 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
 
+  Bij het afgaan van de categorien van games wordt de game>live en het aantal kijkers genoemd. Live is hier niet een goede benaming hiervoor het
+  zijn het aantal kijkers. Veel streamers hebben elle lange titels met veel emote,tekens buiten text die veel tijd neemt. 
+  streamers gebruiken tags om bepaalde content aan te bieden of bij een bepaalde groep te horen de screenreader leest dit voor als een button.
+  daardoor lijkt het alsof je op een button van bijv. parent kan drukken om ergens te komen terwijl de streamer een parent is.
+
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Muis en Toetsenbord 
   Hier korte omschrijving (met indien nodig afbeeldingen)
 
+  omdat een mobiele website wordt nagemaakt is dit niet relevant voor mijn website
+
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Motoriek (shocks, elastiekjes)
   Hier korte omschrijving (met indien nodig afbeeldingen)
+  
+  Het scrollen door de app gaat redelijk goed met de elastiekjes iets selecteren wordt lastiger omdat je met twee vingers soms net de verkeerde
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
 
   #### Visueel (brillen, contrast, kleurenblind, dark/light). 
   Hier korte omschrijving (met indien nodig afbeeldingen)
+
+  App heeft beschikking over light/dark mode  Het contrast is goed zodat tekst enigzins leesbaar blijft afhankelijk van de afstand van het scherm
+  bij een 'normale' slechtziend. Bij blure/glare/ Cataract is het niet te lezen ook de website simuleren op blurred vision(desktop) is de tekst niet te lezen.
 
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
 
@@ -91,10 +103,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/Breakdown_screenshots/Breakdown_sketch.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/Breakdown_screenshots/Breakdown_sketch-02.png" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">

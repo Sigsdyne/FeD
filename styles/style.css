@@ -20,6 +20,7 @@ button, summary {
 	/* startje */
 	--color-text:#111;
 	--color-background:#eee;
+	--font-basis: "Inter", "Roobert", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 
@@ -35,5 +36,24 @@ button, summary {
 body {
   color:var(--color-text);
   background-color:var(--color-background);
+  font-family: var(--font-basis);
+  position:relative;
 }
 
+
+header{
+	position: fixed;
+	background-color: red;
+}
+
+/*slidemenu voor later (gaat over home about etc)  */
+
+/* .slidemenu{
+	position: sticky;
+	top: 4em;
+} */
+
+.icon{
+	border-radius: 50%;
+	border: solid rgb(144, 0, 0) 0.2em;
+}
